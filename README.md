@@ -10,7 +10,7 @@
 
 ### pm2发布
 #### dotenv注入环境变量
-修改.env.prodution文件，dotenv会获取该文件的环境变量
+修改.env.production文件，dotenv会获取该文件的环境变量
 ```
 npm run deploy:production
 ```
